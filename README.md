@@ -1,9 +1,12 @@
 # C - Sorting algorithms & Big O
-Authors:    Oyewale Adeosun
-            Onyenike Chukwudi
+Authors:
+        <ul>
+            <li><strong>Oyewale Adeosun</strong>
+            <li><strong>Onyenike Chukwudi</strong>
+        </ul>
 
 ### Learning Objectives
-    At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+<p> At the end of this project, you are expected to be able to explain to anyone, without the help of Google:</P>
 
 #### General
 <ul>
