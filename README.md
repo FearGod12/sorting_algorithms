@@ -6,7 +6,7 @@ Authors:
         </ul>
 
 ### Learning Objectives
-<p> At the end of this project, you are expected to be able to explain to anyone, without the help of Google:</P>
+<p> At the end of this project, we were expected to be able to explain to anyone, without the help of Google:</P>
 
 #### General
 <ul>
